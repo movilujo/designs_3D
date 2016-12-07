@@ -2,9 +2,9 @@
 <table>
 <tr>
 <td>
-<img src="images/images/DSC_0338.jpg" width="300" align="center">
-<img src="images/images/DSC_0332.jpg" width="300" align="center">
-<img src="images/images/DSC_0342.jpg" width="300" align="center">
+<img src="images/DSC_0338.jpg" width="300" align="center">
+<img src="images/DSC_0332.jpg" width="300" align="center">
+<img src="images/DSC_0342.jpg" width="300" align="center">
 </td>
 </tr>
 </table>
