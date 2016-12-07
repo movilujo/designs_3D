@@ -4,7 +4,7 @@
 <td>
 <img src="images/IMG_0512.JPG" width="300" align="center">
 <img src="images/PCBprint-2.jpg" width="300" align="center">
-<img src="images/PCBprint-2.jpg" width="300" align="center">
+<img src="images/PCBprint-3.jpg" width="300" align="center">
 </td>
 </tr>
 </table>
