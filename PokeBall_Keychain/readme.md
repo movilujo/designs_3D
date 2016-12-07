@@ -6,3 +6,7 @@
 </td>
 </tr>
 </table>
+
+# Licencia
+
+<img src="Images/by-sa.png" width="200" align = "center">
