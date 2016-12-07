@@ -9,4 +9,4 @@
 
 # Licencia
 
-<img src="Images/by-sa.png" width="200" align = "center">
+<img src="images/by-sa.png" width="200" align = "center">
