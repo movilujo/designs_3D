@@ -6,4 +6,4 @@ Pequeño brazo robótico creado con fines educativos para probar y estudiar la c
 
 licencia:
 
-<img src="../images/by-sa.png" width="200" align = "center">
+<img src="../images/by-sa.png" width="300" align = "center">
